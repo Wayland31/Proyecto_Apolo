@@ -1,0 +1,72 @@
+html {
+    background-color: rgb(58, 58, 58);
+}
+
+.container {
+    background-color: orange;
+    border-radius: 5px;
+}
+
+.card {
+    display: inline-block;
+    margin: 0.3cm;
+    background-color: orange;
+    vertical-align: text-top;
+}
+
+body {
+    background-color: rgb(58, 58, 58);
+}
+
+.formularios {
+    border-radius: 5px;
+    background-color: orange;
+    overflow: hidden;
+    max-width: 1320px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+    width: 30%;
+    justify-content: center;
+}
+
+footer {
+    background-color: rgb(58, 58, 58);
+}
+
+nav {
+    max-width: 1320px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 5px;
+}
+
+.container-xl {
+    border-style: solid;
+    border-color: orange;
+    border-radius: 5px;
+    min-height: 100vh;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.ajust {
+    max-width: 10cm;
+}
+
+.ok {
+	text-align: center;
+	width: 100%;
+	padding: 12px;
+	background-color: #1e6;
+	color: #fff
+}
+.bad {
+	text-align: center;
+	width: 100%;
+	padding: 12px;
+	background-color: #a22;
+	color: #fff
+}
